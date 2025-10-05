@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BioNET Immunology Risk</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.23.0/cytoscape.min.js"></script>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+     <header>
+        <img src="images/spaceapps-logo.png" alt="Space Apps Logo" class="logo left-logo">
+        <h1>AI-Driven BioNET: Multi-Domain Risk Analysis</h1>
+        <img src="images/mahait.png" alt="Your Project Logo" class="logo right-logo">
+    </header>
+
+        <nav>
+            <a href="index.html">Musculoskeletal</a> | 
+            <a href="cardiovascular.html">Cardiovascular</a> | 
+            <a href="immunology.html">Immunology</a> | 
+            <a href="model-org.html">Model Organism</a> | 
+            <a href="cross-cutting.html">Cross-Cutting Insights</a>
+        </nav>
+   
+
+    <div class="container">
+        <h2 id="category-title">Immunology Risk Network</h2>
+       <div id="nlq-container" style="width: 100%; margin-bottom: 25px;">
+            <input type="text" id="nlq-input" placeholder="e.g., Show risks related to radiation in C. elegans." value="Show risks related to radiation in C. elegans."  style="width: 70%; padding: 10px; border: 2px solid #002D62; border-radius: 4px 0 0 4px; font-size: 1em;">
+            <button id="nlq-button" style="width: 28%; padding: 10px; background-color: #FF6C00; color: white; border: none; border-radius: 0 4px 4px 0; font-size: 1em; cursor: pointer;">Search BioNET</button>
+        </div>
+
+        <div id="nlq-output">
+            </div>
+        <div id="main-dashboard-content" style="width: 100%; display: flex; flex-wrap: wrap; gap: 30px;">
+            <div id="text-results" class="nlq-sim-target">
+                <p>Loading Immunology data...</p>
+            </div>
+
+            <div id="cy" class="nlq-sim-target">
+                </div>
+        </div>
+ 
+        <div id="cy">
+            </div>
+    </div>
+
+    <script src="script.js"></script>
+    <footer>
+        <p>&copy; MAHATI | Built for NASA Space Apps Challenge 2025</p>
+        <p>Project by <b>RASI AI-Driven BioNET</b> Team | <a href="#top">Back to Top</a></p>
+    </footer>
+</body>
+</html>

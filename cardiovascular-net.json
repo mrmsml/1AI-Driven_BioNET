@@ -1,0 +1,101 @@
+﻿[
+  {
+    "Phenotype": "Mitochondrial Stress (Central Hub)",
+    "Organisms": [
+      "Multi-Species (Omics)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered miRNA Signature",
+    "Organisms": [
+      "Human/Mouse (General)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Redox Signaling",
+    "Organisms": [
+      "Skeletal and Vascular Systems"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Neurovascular Remodeling",
+    "Organisms": [
+      "Rat Skeletal Muscle Artery"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Increased CVD Mortality Risk",
+    "Organisms": [
+      "Homo sapiens (Astronauts)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Cerebral Artery Properties",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Vasomotor Properties",
+    "Organisms": [
+      "Rat Femur (Artery)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Elevated Intracranial Pressure Risk",
+    "Organisms": [
+      "Cerebral Artery"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Vasoconstrictor Properties",
+    "Organisms": [
+      "Mouse Arteries/Veins"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Vascular Remodeling",
+    "Organisms": [
+      "Rat Femur"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Developmental Properties",
+    "Organisms": [
+      "Cardiovascular Progenitor Cells"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Radiation-Induced Proteomic Changes",
+    "Organisms": [
+      "Cardiovascular Tissues"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Radiation-Induced FYN Activation",
+    "Organisms": [
+      "Cardiovascular System"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Oxidative Stress Response",
+    "Organisms": [
+      "Heart Tissue",
+      "Skeletal System"
+    ],
+    "OrganismCount": 2
+  }
+]

@@ -1,0 +1,19 @@
+﻿[
+  {
+    "Phenotype": "Bone Loss",
+    "Organisms": [
+      "Homo sapiens",
+      "Rattus norvegicus",
+      "Mus musculus",
+      "Human/Mouse Cell Culture"
+    ]
+  },
+  {
+    "Phenotype": "Muscle Atrophy",
+    "Organisms": [
+      "Homo sapiens",
+      "Human/Mouse Cell Culture",
+      "Rattus norvegicus"
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+﻿[
+  {
+    "Phenotype": "Density Modulated by Nutrients",
+    "Organisms": [
+      "Pseudomonas aeruginosa"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Regulated Immunity Signaling (Ca2+)",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Microbiome Characterization",
+    "Organisms": [
+      "ISS Metagenome"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Genomic Characterization",
+    "Organisms": [
+      "Cohnella hashimotonis (ISS)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Gut Microbiota Interactions",
+    "Organisms": [
+      "Human/Mouse (Gut)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Host-Microbe Interactions",
+    "Organisms": [
+      "Host-Microbe Systems"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Social Isolation Effects",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Host-Mitochondrion Genes (Infection)",
+    "Organisms": [
+      "Drosophila"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Gut Microbiome Alterations (Confinement)",
+    "Organisms": [
+      "Homo sapiens (Crew)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Radiation Damage Rescue",
+    "Organisms": [
+      "General"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered DNA Methylation (Radiation)",
+    "Organisms": [
+      "General"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Increased Cancer Risk",
+    "Organisms": [
+      "Female Astronauts"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Increased Chromosome Aberrations",
+    "Organisms": [
+      "Human Lymphoblastic Cells"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Increased Virulence",
+    "Organisms": [
+      "Serratia marcescens"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Cytokine Expression",
+    "Organisms": [
+      "Hippocampal Tissue"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Enhanced Biofilm Formation",
+    "Organisms": [
+      "Pseudomonas aeruginosa"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Antibody Repertoire",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Immunoglobulin Repertoire",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Adipose Tissue Inflammation",
+    "Organisms": [
+      "Murine Macrophages"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Differentiation",
+    "Organisms": [
+      "Macrophages"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Impaired Differentiation",
+    "Organisms": [
+      "Macrophages"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Potential for Pathogenicity",
+    "Organisms": [
+      "Enterococcus faecalis"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Osmotic Stress Response",
+    "Organisms": [
+      "Microbial (General)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Protein Stoichiometry (MscL)",
+    "Organisms": [
+      "Staphylococcus aureus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Innate Immune Response",
+    "Organisms": [
+      "Drosophila"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Toll Infection Response",
+    "Organisms": [
+      "Drosophila"
+    ],
+    "OrganismCount": 1
+  }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Phenotype": "Oxidative Stress Response",
+    "Organisms": [
+      "Heart Tissue",
+      "Skeletal System"
+    ],
+    "Categories": [
+      "Musculoskeletal",
+      "Cardiovascular"
+    ],
+    "OrganismCount": 2
+  }
+]

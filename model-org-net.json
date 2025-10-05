@@ -1,0 +1,303 @@
+﻿[
+  {
+    "Phenotype": "Neuronal Multiomics",
+    "Organisms": [
+      "Mus musculus (Brain)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Metabolomic Profile",
+    "Organisms": [
+      "Human Neural Stem Cells"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Intrinsically Disordered Proteins",
+    "Organisms": [
+      "Tardigrade"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Radiation Response (Genomic)",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Transcriptome Alterations",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Submergence Stress Response",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Rapid Long-Range Signaling",
+    "Organisms": [
+      "Plants (General)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Systemic Salt Stress Response",
+    "Organisms": [
+      "Arabidopsis thaliana (Roots)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Salt Stress Signaling (Ca2+)",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Cytosolic Calcium Oscillations",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Actin-Mediated Root Development",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Calcium Signaling",
+    "Organisms": [
+      "Arabidopsis thaliana (Roots)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Root Hair Growth",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Cell Division",
+    "Organisms": [
+      "Neural Stem Cells"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Delayed Maturation",
+    "Organisms": [
+      "Oligodendrocyte Progenitors"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Neurogenesis",
+    "Organisms": [
+      "Human Neural Stem Cells"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Enhanced Mitochondrial Function",
+    "Organisms": [
+      "Oligodendrocytes"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Vestibular Convergence",
+    "Organisms": [
+      "General"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Otolith Receptor Development",
+    "Organisms": [
+      "Japanese Quail"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Epigenetic Clock Deceleration",
+    "Organisms": [
+      "Mus musculus (Retina)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Utricle Structure/Function",
+    "Organisms": [
+      "Toadfish (Opsanus tau)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Retinal Structural Alteration",
+    "Organisms": [
+      "Mouse Retina"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "HZE-Specific Transcriptional Response",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Unexpected Host/Parasitoid Effects",
+    "Organisms": [
+      "Drosophila / Parasitoid Wasp"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Functional Eicosanoid Pathway",
+    "Organisms": [
+      "Drosophila"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Tissue-Specific Requirements (Gene)",
+    "Organisms": [
+      "Drosophila"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Biochemical/Proteomic Alterations",
+    "Organisms": [
+      "Mus musculus (Retina)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Transcriptional Reprogramming",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Otolith Organ Morphology",
+    "Organisms": [
+      "Toadfish (Opsanus tau)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Vestibular System Readaptation",
+    "Organisms": [
+      "Land Snail"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Extreme Stress Tolerance",
+    "Organisms": [
+      "Tardigrade"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Horizontal Gene Transfer",
+    "Organisms": [
+      "Tardigrade (H. dujardini)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Reduced Cardiac Contractility",
+    "Organisms": [
+      "Drosophila"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Lipid Dysregulation",
+    "Organisms": [
+      "Mouse Liver"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Spermatid Nucleus Association",
+    "Organisms": [
+      "Drosophila"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Modulated Root Skewing",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Gravitropism",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Waving and Skewing Movement",
+    "Organisms": [
+      "Arabidopsis thaliana (Roots)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Salt Tolerance Modulation",
+    "Organisms": [
+      "Arabidopsis thaliana"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Pollen Tube Growth",
+    "Organisms": [
+      "Arabidopsis thaliana (Pollen)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Gene Expression Analysis (Method)",
+    "Organisms": [
+      "Cell Culture (General)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Reduced Differentiation",
+    "Organisms": [
+      "Embryonic Stem Cells"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Regeneration Potential",
+    "Organisms": [
+      "Embryonic Stem Cells"
+    ],
+    "OrganismCount": 1
+  }
+]

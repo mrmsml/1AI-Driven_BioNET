@@ -1,0 +1,150 @@
+﻿[
+  {
+    "Phenotype": "Terrestrial Disease Association",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Vestibular Regulation of Bone",
+    "Organisms": [
+      "Vestibular System / Bone"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Aging/Frailty Biomarkers",
+    "Organisms": [
+      "Human/Mouse (General)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Pro-Osteoclastogenic Gene Expression",
+    "Organisms": [
+      "Skeletal Tissue/Marrow"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Age-Related Bone Changes",
+    "Organisms": [
+      "Skeletal Microarchitecture"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Microgravity-Specific Tissue Response",
+    "Organisms": [
+      "Cartilage"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Increased Ca2+ Leak (Muscle)",
+    "Organisms": [
+      "Skeletal Muscle"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Muscle/Bone Loss",
+    "Organisms": [
+      "Musculoskeletal System"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Gene Expression (Bone)",
+    "Organisms": [
+      "Female Mice (Cortical Bone)"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Increased Bone Mass",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Electrical Impedance",
+    "Organisms": [
+      "Mouse Gastrocnemius Muscle"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Proportional Bone Density Loss",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Reduced Musculoskeletal Loading",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Tissue Degradation",
+    "Organisms": [
+      "Connective Tissue"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Muscle Atrophy",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Altered Muscle Response to Load",
+    "Organisms": [
+      "Murine Skeletal Muscle"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Collagen Structure Alteration",
+    "Organisms": [
+      "Mouse Vertebrae"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Oxidative Stress Response",
+    "Organisms": [
+      "Heart Tissue",
+      "Skeletal System"
+    ],
+    "OrganismCount": 2
+  },
+  {
+    "Phenotype": "Inhibited Cell Cycle (CDKN1a)",
+    "Organisms": [
+      "Osteoblasts/Osteoclasts"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Pelvic Bone Loss",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  },
+  {
+    "Phenotype": "Physiological Deconditioning",
+    "Organisms": [
+      "Mus musculus"
+    ],
+    "OrganismCount": 1
+  }
+]

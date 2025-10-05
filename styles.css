@@ -1,0 +1,166 @@
+/* styles.css - Aligned with NASA Space Apps Brand Guidelines */
+
+/* Global and Typography */
+body { 
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+    background-color: #f0f0f5; /* Light Gray/Off-White Background */
+    color: #333; 
+}
+
+/* Header and Navigation (NASA Blue and Accent) */
+header { 
+    background-color: #002D62; /* NASA Blue */
+    color: white; 
+    padding: 15px 0; /* Adjusted padding for logos */
+    text-align: center; 
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    display: flex; /* Use flexbox for logo positioning */
+    align-items: center; /* Vertically align items */
+    justify-content: space-between; /* Space out title and logos */
+    position: relative; /* For absolute positioning of logos */
+}
+
+header h1 { 
+    margin: 0; 
+    font-size: 2em; 
+    font-weight: 900;
+    flex-grow: 1; /* Allow title to take available space */
+    text-align: center; /* Ensure title remains centered */
+}
+
+.logo {
+    height: 60px; /* Adjust logo height as needed */
+    vertical-align: middle;
+    margin: 0 20px; /* Spacing for logos */
+}
+
+/* For smaller screens, adjust logo size if needed */
+@media (max-width: 768px) {
+    .logo {
+        height: 40px;
+        margin: 0 10px;
+    }
+    header h1 {
+        font-size: 1.5em;
+    }
+}
+
+
+nav { 
+    background-color: #0a4c95; /* Slightly lighter blue for nav bar */
+    padding: 10px 0; 
+    text-align: center; /* Ensure nav links are centered */
+}
+
+nav a { 
+    color: white; 
+    margin: 0 18px; 
+    text-decoration: none; 
+    font-weight: 600; 
+    padding: 8px 15px; 
+    border-radius: 4px; 
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+/* Highlight Color (Space Apps Orange/Red) */
+nav a:hover, nav a:focus { 
+    background-color: #FF6C00; /* NASA Red/Orange Accent */
+    color: white;
+}
+
+/* Container and Layout */
+.container { 
+    width: 90%; 
+    max-width: 1300px;
+    margin: 30px auto; 
+    display: flex; /* Ensure the items are flexed */
+    flex-wrap: wrap; /* Keep this for responsiveness on small screens */
+    gap: 30px; 
+}
+
+h2 { 
+    color: #002D62; /* NASA Blue for headings */
+    border-bottom: 3px solid #FF6C00; /* Orange underline */
+    padding-bottom: 10px; 
+    width: 100%; 
+    margin-top: 0; 
+    font-size: 1.6em; 
+}
+
+/* Results Tables */
+#text-results { 
+    flex: 1 1 40%; /* Changed to a fixed percentage for consistent width */
+    /* ... other styles ... */
+    max-width: 40%; /* Explicitly cap the max width for two-column layout */
+    min-width: 400px; /* Ensure it's legible before wrapping */
+}
+
+#cy { 
+    flex: 1 1 55%; /* Changed to a fixed percentage for consistent width */
+    /* ... other styles ... */
+    max-width: 55%; /* Explicitly cap the max width for two-column layout */
+    min-height: 550px; 
+}
+
+@media (max-width: 1000px) {
+    #text-results, #cy {
+        flex: 1 1 100%; /* Items take full width and stack */
+        max-width: 100%;
+        min-width: unset;
+    }
+}
+
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 15px; 
+}
+
+th, td { 
+    border: 1px solid #e0e0e0; 
+    padding: 12px; 
+    text-align: left; 
+    font-size: 0.9em;
+}
+
+th { 
+    background-color: #e6e9f0; /* Light blue/gray header */
+    color: #002D62; 
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.error { 
+    color: #FF6C00; 
+    font-weight: bold; 
+}
+
+/* Footer Styles */
+footer {
+    background-color: #002D62; /* NASA Blue, matching the header */
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    margin-top: 40px; /* Space above the footer */
+    font-size: 0.85em;
+    border-top: 3px solid #FF6C00; /* Orange accent line */
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer a {
+    color: #FF6C00; /* Orange for links */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
